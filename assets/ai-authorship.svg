@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<rect width="1200" height="320" rx="24" fill="#F4EAD8"/>
+<g transform="translate(72 44)">
+  <path d="M0 28Q80 8 150 22T308 25" fill="none" stroke="#D7C5AE" stroke-width="3"/>
+  <text x="0" y="78" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#1E1A17">AI is in the toolbox.</text>
+  <text x="0" y="116" font-family="Trebuchet MS,Arial,sans-serif" font-size="23" fill="#5A5149">not the driver's seat.</text>
+  <rect x="0" y="142" width="568" height="104" rx="16" fill="#FFFDF7" stroke="#1E1A17" stroke-width="4"/>
+  <text x="22" y="174" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" fill="#1E1A17">Most of my software is AI-assisted.</text>
+  <text x="22" y="204" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" fill="#1E1A17">I still decide what gets built, kept,</text>
+  <text x="22" y="234" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" fill="#1E1A17">rewritten, or thrown into the bin.</text>
+</g>
+
+<g transform="translate(720 42)">
+  <path d="M120 40Q195 40 230 90T210 190Q170 230 94 214Q46 196 38 141Q30 82 74 54Q96 40 120 40Z" fill="#A9D6C0" stroke="#1E1A17" stroke-width="4"/>
+  <path d="M85 118Q120 84 168 116" fill="none" stroke="#1E1A17" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="91" cy="121" r="7" fill="#1E1A17"/><circle cx="169" cy="121" r="7" fill="#1E1A17"/>
+  <path d="M112 148Q132 164 151 148" fill="none" stroke="#1E1A17" stroke-width="4" stroke-linecap="round"/>
+  <rect x="78" y="196" width="136" height="46" rx="12" fill="#2E3340" stroke="#1E1A17" stroke-width="4"/>
+  <text x="98" y="226" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" fill="#FFFDF7">copilot-ish</text>
+  <path d="M18 114Q-10 74 12 42" fill="none" stroke="#E26A5B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M12 42l5 18-18-5" fill="none" stroke="#E26A5B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="0" y="268" font-family="Georgia,serif" font-size="22" fill="#E26A5B">lowering the entry fee, not the stakes.</text>
+</g>
+</svg>

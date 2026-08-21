@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" rx="24" fill="#FFF7EC"/>
+<path d="M32 26Q240 4 450 22T870 18T1170 24" fill="none" stroke="#E0D2C0" stroke-width="2"/>
+
+<g transform="translate(78 64) rotate(-3)">
+  <rect x="0" y="0" width="260" height="180" rx="12" fill="#E7EEF9" stroke="#1E1A17" stroke-width="4"/>
+  <text x="24" y="42" font-family="Georgia,serif" font-size="22" font-weight="700" fill="#1E1A17">practice card</text>
+  <circle cx="130" cy="112" r="50" fill="#FFFDF7" stroke="#1E1A17" stroke-width="4"/>
+  <path d="M130 72V112L157 130" fill="none" stroke="#E26A5B" stroke-width="6" stroke-linecap="round"/>
+  <text x="75" y="190" font-family="Trebuchet MS,Arial,sans-serif" font-size="18" fill="#5A5149">again, but better</text>
+</g>
+
+<g transform="translate(430 78)">
+  <rect x="0" y="0" width="318" height="154" rx="16" fill="#2E3340" stroke="#1E1A17" stroke-width="4"/>
+  <rect x="20" y="20" width="278" height="82" rx="10" fill="#3B4352"/>
+  <g fill="#F7F0E3" stroke="#1E1A17" stroke-width="2">
+    <rect x="32" y="36" width="34" height="34" rx="6"/><rect x="72" y="36" width="34" height="34" rx="6"/><rect x="112" y="36" width="34" height="34" rx="6"/><rect x="152" y="36" width="34" height="34" rx="6"/><rect x="192" y="36" width="34" height="34" rx="6"/><rect x="232" y="36" width="34" height="34" rx="6"/>
+  </g>
+  <text x="45" y="60" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" font-weight="700" fill="#1E1A17">A</text><text x="84" y="60" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" font-weight="700" fill="#1E1A17">S</text><text x="124" y="60" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" font-weight="700" fill="#1E1A17">D</text><text x="164" y="60" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" font-weight="700" fill="#1E1A17">F</text><text x="204" y="60" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" font-weight="700" fill="#1E1A17">J</text><text x="244" y="60" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" font-weight="700" fill="#1E1A17">K</text>
+  <text x="24" y="130" font-family="Trebuchet MS,Arial,sans-serif" font-size="18" fill="#D6E0E8">muscle memory, but for code &amp; speech</text>
+</g>
+
+<g transform="translate(820 50) rotate(5)">
+  <rect x="0" y="0" width="270" height="170" rx="10" fill="#FFFDF7" stroke="#1E1A17" stroke-width="4"/>
+  <circle cx="50" cy="72" r="18" fill="#D8B766" stroke="#1E1A17" stroke-width="4"/>
+  <path d="M48 56L74 30L84 42L58 68Z" fill="#E26A5B" stroke="#1E1A17" stroke-width="4"/>
+  <path d="M44 80Q96 54 166 78T230 70" fill="none" stroke="#4C72C9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M28 118H238M28 140H195" stroke="#C6B9A7" stroke-width="3" stroke-linecap="round"/>
+  <text x="28" y="38" font-family="Georgia,serif" font-size="22" font-weight="700" fill="#1E1A17">one more rep</text>
+</g>
+</svg>

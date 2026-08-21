@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<rect width="1200" height="260" rx="24" fill="#EEE0C9"/>
+<path d="M0 214Q160 196 320 215T640 210T930 214T1200 206V260H0Z" fill="#E0CCAB"/>
+<path d="M94 197V106M105 197V106" stroke="#1E1A17" stroke-width="5" stroke-linecap="round"/>
+<path d="M100 105L126 74L152 105" fill="#D8B766" stroke="#1E1A17" stroke-width="4"/>
+<path d="M128 77Q124 64 112 58Q128 45 144 58Q132 63 128 77Z" fill="#FFF7D5" stroke="#1E1A17" stroke-width="3"/>
+<g transform="translate(250 136)">
+  <path d="M0 34Q42 10 84 34T168 30" fill="none" stroke="#4C72C9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M30 30l10 18M74 28l11 19M120 27l10 18" stroke="#1E1A17" stroke-width="3" stroke-linecap="round"/>
+</g>
+<g transform="translate(790 55) rotate(-3)">
+  <rect x="0" y="0" width="300" height="126" rx="14" fill="#FFFDF7" stroke="#1E1A17" stroke-width="4"/>
+  <text x="24" y="48" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#1E1A17">still building.</text>
+  <text x="24" y="82" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" fill="#5A5149">please ignore the</text>
+  <text x="24" y="108" font-family="Trebuchet MS,Arial,sans-serif" font-size="20" fill="#E26A5B">temporary permanent mess.</text>
+</g>
+<circle cx="1125" cy="53" r="7" fill="#E26A5B"/><circle cx="1148" cy="67" r="5" fill="#4C72C9"/><circle cx="1170" cy="52" r="6" fill="#6B9D69"/>
+</svg>

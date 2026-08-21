@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" rx="24" fill="#F2E6D3"/>
+<path d="M0 281Q140 265 285 283T580 278T860 284T1200 276V360H0Z" fill="#E7D4B7"/>
+<path d="M0 288Q160 270 310 288T612 286T910 291T1200 282" fill="none" stroke="#C9B493" stroke-width="3"/>
+
+<!-- paper stack -->
+<g transform="translate(60 72) rotate(-3)">
+  <rect x="0" y="0" width="232" height="158" rx="10" fill="#FFFDF7" stroke="#1E1A17" stroke-width="4"/>
+  <rect x="13" y="14" width="206" height="128" rx="7" fill="#F8F2E8" stroke="#D5C7B2" stroke-width="2"/>
+  <text x="28" y="46" font-family="Georgia,serif" font-size="22" font-weight="700" fill="#1E1A17">today's idea</text>
+  <path d="M28 67H188M28 91H174M28 115H153" stroke="#B7A796" stroke-width="3" stroke-linecap="round"/>
+  <path d="M190 88l12 14-21 15" fill="none" stroke="#E26A5B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- books -->
+<g transform="translate(358 208)">
+  <rect x="0" y="12" width="174" height="30" rx="6" fill="#4C72C9" stroke="#1E1A17" stroke-width="4"/>
+  <rect x="14" y="-26" width="184" height="34" rx="6" fill="#D8B766" stroke="#1E1A17" stroke-width="4" transform="rotate(3 14 -26)"/>
+  <rect x="7" y="-62" width="154" height="32" rx="6" fill="#E26A5B" stroke="#1E1A17" stroke-width="4" transform="rotate(-4 7 -62)"/>
+  <path d="M24 23H151M38 -9H168M25 -47H129" stroke="#FFFDF7" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+</g>
+
+<!-- terminal -->
+<g transform="translate(660 120) rotate(2)">
+  <rect x="0" y="0" width="292" height="164" rx="16" fill="#2E3340" stroke="#1E1A17" stroke-width="4"/>
+  <circle cx="28" cy="27" r="6" fill="#E26A5B"/><circle cx="48" cy="27" r="6" fill="#D8B766"/><circle cx="68" cy="27" r="6" fill="#6B9D69"/>
+  <path d="M28 68L44 82L28 96" fill="none" stroke="#FFFDF7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M56 100H134" stroke="#A9D6C0" stroke-width="5" stroke-linecap="round"/>
+  <text x="28" y="134" font-family="Trebuchet MS,Arial,sans-serif" font-size="17" fill="#D6E0E8">$ build something weird</text>
+</g>
+
+<!-- plant -->
+<g transform="translate(1010 178)">
+  <path d="M-18 75Q0 38 18 75Z" fill="#D8B766" stroke="#1E1A17" stroke-width="4"/>
+  <path d="M0 38Q-46 2-48 38Q-42 70-3 47Z" fill="#6B9D69" stroke="#1E1A17" stroke-width="4"/>
+  <path d="M0 40Q42 4 48 38Q42 67 4 49Z" fill="#7DAF7A" stroke="#1E1A17" stroke-width="4"/>
+  <path d="M0 48Q0 12 5 -10" stroke="#1E1A17" stroke-width="4" stroke-linecap="round"/>
+  <path d="M-12 30Q-20 8-38 0M12 30Q20 10 37 2" stroke="#1E1A17" stroke-width="3" stroke-linecap="round"/>
+</g>
+
+<!-- little companion -->
+<g transform="translate(520 88)">
+  <ellipse cx="0" cy="120" rx="56" ry="10" fill="#C9B493" opacity=".45"/>
+  <path d="M-41 98Q-34 60 0 55Q34 60 41 98L30 113Q0 126-30 113Z" fill="#1E1A17"/>
+  <path d="M-31 64L-38 36L-12 52M31 64L38 36L12 52" fill="#1E1A17"/>
+  <circle cx="-12" cy="80" r="4.5" fill="#FFFDF7"/><circle cx="12" cy="80" r="4.5" fill="#FFFDF7"/>
+  <path d="M-9 94Q0 99 9 94" fill="none" stroke="#FFFDF7" stroke-width="3" stroke-linecap="round"/>
+</g>
+
+<path d="M282 70Q330 42 350 66" fill="none" stroke="#E26A5B" stroke-width="4" stroke-linecap="round"/>
+<path d="M339 57l13 9-15 7" fill="none" stroke="#E26A5B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="280" y="50" font-family="Georgia,serif" font-size="19" fill="#5A5149">things I keep around</text>
+</svg>
