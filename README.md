@@ -1,169 +1,151 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Lone's illustrated workspace" width="100%" />
+  <img src="./assets/header.svg" alt="A colourful hand-drawn workspace with Lone at a desk" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <strong>software, experiments, and small machines for thinking.</strong><br />
-  <sub>I like building tools that help people focus, discover, practice, remember, or make computers feel a little more alive.</sub>
+  <h1>Lone</h1>
+  <strong>I make software because otherwise the ideas keep making noise.</strong><br />
+  <sub>tools for attention, information, practice, and computers that occasionally feel a little too alive.</sub>
 </div>
-
-<br />
 
 <p align="center">
   <a href="https://pacify.site"><strong>Pacify</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/LoneMagma?tab=repositories"><strong>Projects</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp; · &nbsp;
+  <a href="https://github.com/LoneMagma?tab=repositories"><strong>things I made</strong></a>
+  &nbsp; · &nbsp;
   <a href="https://github.com/LoneMagma/FreeShelf"><strong>FreeShelf</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp; · &nbsp;
   <a href="https://github.com/LoneMagma/Jen1"><strong>Jen1</strong></a>
 </p>
 
 <div align="center">
-  <img src="./assets/rule.svg" alt="illustrated divider" width="86%" />
+  <img src="./assets/rule.svg" alt="hand-drawn divider" width="86%" />
 </div>
 
-## Welcome in.
+## Come in.
 
-I make software because I like turning vague ideas into things you can actually use.
+I like taking a vague thought and giving it a keyboard, a screen, and a chance to misbehave.
 
-Some projects are products. Some are experiments. Some are tools for practicing a skill. Some are explorations into what a computer could feel like when it has memory, personality, or a little more agency.
+Some of my projects are useful on day one. Some are glorified experiments with surprisingly long names. A few are still sitting on the desk asking what they want to become.
 
-I do not really have one lane — I keep circling a few questions:
+The recurring questions are pretty simple:
 
-> **How can software help us act more deliberately?**  
-> **How can information become more useful instead of louder?**  
-> **How can a computer feel more like an instrument than another system asking for attention?**
-
-<br />
+> Can software help someone stay in control of their attention?
+>
+> Can a mountain of information become one useful thing?
+>
+> Can a computer feel like an instrument instead of another tab asking for attention?
 
 <div align="center">
-  <img src="./assets/desk.svg" alt="A small illustrated desk with a notebook, terminal, books, and a glowing orb" width="92%" />
+  <img src="./assets/desk.svg" alt="A hand-drawn desk with books, terminal, notes, and a small computer companion" width="94%" />
 </div>
 
 ## The workshop
 
-These are the things I keep on the desk.
-
 ### Finding things
 
-| Project | What it is | Status |
+| Project | What is actually going on | State |
 |---|---|---|
-| [**FreeShelf**](https://freeshelf.pacify.site) | Deal intelligence for PC games — free games, prices, discounts, historical lows, and storefront comparison. | `active` |
-| [**Jen1**](https://jen1.pacify.site) | A cinematic movie discovery experience built around browsing, searching, metadata, playback, and presentation. | `active` |
-| [**NewZ**](https://github.com/LoneMagma/NewZ) | A personalized news ranking system that extracts signals from many feeds and ranks what matters to you. | `experiment` |
+| [**FreeShelf**](https://freeshelf.pacify.site) | Finds free PC games, tracks prices and historical lows, compares storefronts, and tries to save you from buying something five minutes before it becomes free. | active |
+| [**Jen1**](https://jen1.pacify.site) | A movie discovery app built around browsing, searching, metadata, playback, and the nice feeling of finding something worth watching. | active |
+| [**NewZ**](https://github.com/LoneMagma/NewZ) | Pulls news from many feeds, extracts useful signals, then ranks stories around what a person actually cares about. | experiment |
 
 <div align="center">
-  <img src="./assets/paper-find.svg" alt="Hand-drawn note and arrow" width="82%" />
+  <img src="./assets/paper-find.svg" alt="A hand-drawn note with an arrow pointing toward a discovery list" width="84%" />
 </div>
 
-### Training the person
+### Training the human
 
-| Project | What it is | Status |
+| Project | What is actually going on | State |
 |---|---|---|
-| [**FocusED**](https://github.com/LoneMagma/FocusED) | Android behavioural friction: pause, intent, wait — with app budgets, limits, downtime, focus mode, and reflection instead of streaks. | `developing` |
-| [**Intention**](https://github.com/LoneMagma/intention--extension) | A browser extension that lets you use Instagram intentionally while interrupting feed-shaped loops. | `experiment` |
-| [**PrepZero**](https://github.com/LoneMagma/PrepZero) | Impromptu speaking practice: prompt, think, speak, record, transcribe, review. | `experiment` |
-| [**Key4ce**](https://github.com/LoneMagma/Key4ce) | A terminal-first typing practice instrument with local progress, sessions, goals, and analytics. | `experiment` |
-| [**Poscure**](https://github.com/LoneMagma/Poscure) | A local-first timed gesture/figure drawing practice tool built around your own reference library. | `experiment` |
+| [**FocusED**](https://github.com/LoneMagma/FocusED) | Adds friction to distracting apps with pauses, intent checks, limits, downtime, and reflection. No streak worship. | developing |
+| [**Intention**](https://github.com/LoneMagma/intention--extension) | Lets you use Instagram on purpose while getting in the way of the feed-shaped rabbit holes. | experiment |
+| [**PrepZero**](https://github.com/LoneMagma/PrepZero) | Gives you an impromptu speaking prompt, a little time to think, then recording, transcription, and review. | experiment |
+| [**Key4ce**](https://github.com/LoneMagma/Key4ce) | Terminal-first typing practice with local sessions, goals, progress, and enough numbers to make the keyboard feel accountable. | experiment |
+| [**Poscure**](https://github.com/LoneMagma/Poscure) | A local timed figure and gesture drawing tool. Bring your own references, set a timer, draw. No account. No cloud. | experiment |
 
 <div align="center">
-  <img src="./assets/practice.svg" alt="Books, timer, keyboard and paper study tools" width="90%" />
+  <img src="./assets/practice.svg" alt="Hand-drawn practice tools including a timer, keyboard, pencil and reference sheet" width="92%" />
 </div>
 
 ### Making the computer feel inhabited
 
-| Project | What it is | Status |
+| Project | What is actually going on | State |
 |---|---|---|
-| [**SOUL**](https://github.com/LoneMagma/SOUL) | An ambient desktop AI agent that can see context, act on the machine, remember, and proactively interact. | `major experiment` |
-| [**Pacificia**](https://github.com/LoneMagma/Pacificia) | A terminal AI companion built around personality, memory, mood, personas, and contextual conversation. | `experiment` |
-| [**Pacify / DefyAI**](https://github.com/LoneMagma/Pacify-DefyAI) | A CLI conversational AI exploring two styles of interaction: collaborative Pacify and direct Defy. | `experiment` |
-| [**ShellNote**](https://github.com/LoneMagma/shellnote) | A terminal-native thinking environment with Vim-like navigation, persistent notes, themes, and an AI companion. | `tool` |
+| [**SOUL**](https://github.com/LoneMagma/SOUL) | An ambient desktop agent that can see context, act on the machine, remember things, and sometimes decide it has an opinion about the current situation. | major experiment |
+| [**Pacificia**](https://github.com/LoneMagma/Pacificia) | A terminal AI companion with memory, mood, personas, contextual callbacks, and personality. | experiment |
+| [**Pacify / DefyAI**](https://github.com/LoneMagma/Pacify-DefyAI) | A CLI experiment with two conversational modes: one cooperative, one deliberately more direct. | experiment |
+| [**ShellNote**](https://github.com/LoneMagma/shellnote) | A terminal-native thinking space with Vim-style movement, persistent notes, themes, and an AI companion called Sage. | tool |
 
 <div align="center">
-  <img src="./assets/companion.svg" alt="A glowing computer companion floating above a terminal" width="84%" />
+  <img src="./assets/companion.svg" alt="A friendly floating computer companion above a terminal and notebook" width="88%" />
 </div>
 
 ### Owning the environment
 
-| Project | What it is | Status |
+| Project | What is actually going on | State |
 |---|---|---|
-| [**BurnLab**](https://github.com/LoneMagma/BurnLab) | A portable, air-gapped AI development environment intended to live entirely from a USB drive. | `experiment` |
+| [**BurnLab**](https://github.com/LoneMagma/BurnLab) | Turns a USB drive into a portable, air-gapped AI development environment. Your tools travel with you. The host machine gets to mind its own business. | experiment |
 
 <div align="center">
-  <img src="./assets/lab.svg" alt="Portable lab note with USB drive and terminal window" width="84%" />
+  <img src="./assets/lab.svg" alt="A hand-drawn portable development lab with USB drive and terminal" width="88%" />
 </div>
 
-### A couple of shelves are still unlabeled
+### Two shelves are still a little mysterious
 
-[**graphiic**](https://github.com/LoneMagma/graphiic) and **purrpause** are deliberately left less described here until their public/live material gives me enough evidence to describe them properly. I would rather leave a blank label than invent what a project is.
+[**graphiic**](https://github.com/LoneMagma/graphiic) and **purrpause** stay lightly labelled for now. Their public material is not enough for me to write a confident description, and making one up would be a spectacular way to introduce a bug before writing any code.
 
 <p align="center">
-  <img src="./assets/blank-note.svg" alt="A little blank pinned note" width="42%" />
+  <img src="./assets/blank-note.svg" alt="A blank pinned note waiting for a project description" width="44%" />
 </p>
 
-## What keeps repeating
+## The repeating bits
 
 <div align="center">
-  <img src="./assets/three-notes.svg" alt="Three handwritten notes about focus, information, and computers" width="96%" />
+  <img src="./assets/three-notes.svg" alt="Three illustrated notes about attention, information, and computers" width="96%" />
 </div>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Attention</h3>
-      <p>FocusED, Intention, PrepZero, Key4ce, Poscure.</p>
-      <p>Tools that add structure or friction so the person stays in control.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Information</h3>
-      <p>FreeShelf, Jen1, NewZ.</p>
-      <p>Ways of turning too much choice into something you can actually act on.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Computing</h3>
-      <p>SOUL, Pacificia, Pacify / DefyAI, ShellNote, BurnLab.</p>
-      <p>Experiments in agency, memory, personality, local environments, and computer presence.</p>
-    </td>
-  </tr>
-</table>
+| Attention | Information | Computing |
+|---|---|---|
+| FocusED, Intention, PrepZero, Key4ce, Poscure | FreeShelf, Jen1, NewZ | SOUL, Pacificia, Pacify / DefyAI, ShellNote, BurnLab |
+| I keep poking at the question of how to stay in charge of the tool. | I like turning too much choice into something useful. | I keep wondering what happens when a computer remembers, notices, and acts. |
 
-## What is on the desk right now
+## Currently on the desk
 
 <div align="center">
-  <img src="./assets/current.svg" alt="Current projects pinned to a desk board" width="88%" />
+  <img src="./assets/current.svg" alt="Pinned notes for current projects" width="90%" />
 </div>
 
-At the moment, **FreeShelf** and **Jen1** are the clearest active web projects. Everything else stays around as a trail of experiments, tools, and questions that fed the next thing.
+**FreeShelf** and **Jen1** are the clearest active web projects right now. The rest are still useful to me as tools, experiments, or evidence from earlier rabbit holes.
 
-## A little philosophy
+I have learned to leave a few rabbit holes open.
+
+## A note to self
 
 <div align="center">
-  <img src="./assets/quote-card.svg" alt="A handwritten studio note" width="80%" />
+  <img src="./assets/quote-card.svg" alt="Handwritten note saying make the thing first" width="82%" />
 </div>
 
-I like software that feels **owned rather than consuming**.
+I tend to build first and explain later.
 
-I like local-first tools, explicit interaction, useful friction, and interfaces that respect the person's attention.
+This has produced some good software, some weird software, and a fairly impressive collection of folders named `final`, `final2`, and `final-real-this-time`.
 
-I also like making things before I know exactly what they will become.
+I am keeping the naming convention for historical reasons.
 
-That is probably why there are so many shelves in this workshop.
-
-## Come in through the front door
+## Links on the wall
 
 <p align="center">
-  <a href="https://pacify.site">pacify.site</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://pacify.site">Pacify</a>
+  &nbsp; · &nbsp;
   <a href="https://github.com/LoneMagma?tab=repositories">all repositories</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp; · &nbsp;
   <a href="https://github.com/LoneMagma">GitHub</a>
 </p>
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Small illustrated footer scene" width="94%" />
+  <img src="./assets/footer.svg" alt="A small hand-drawn scene with a desk lamp, plant, notes, and tiny machine" width="96%" />
 </div>
 
-<p align="center"><sub>made by Lone · some things stay, some things teach me something.</sub></p>
+<p align="center"><sub>still building · occasionally breaking things with confidence</sub></p>
