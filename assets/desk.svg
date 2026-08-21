@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="illustrated desktop workspace">
+  <rect width="1200" height="360" rx="26" fill="#e9dfca"/>
+  <path d="M48 289 q180 -33 349 0 t346 0 t402 0" fill="none" stroke="#a77f5d" stroke-width="15" stroke-linecap="round" opacity=".55"/>
+  <rect x="155" y="74" width="342" height="188" rx="14" fill="#2a2927"/>
+  <rect x="175" y="94" width="302" height="148" rx="7" fill="#b5d6cf"/>
+  <path d="M201 127 h156 q58 0 95 39" fill="none" stroke="#2a2927" stroke-width="10" stroke-linecap="round"/>
+  <path d="M201 162 h119 M201 194 h198" stroke="#2a2927" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="440" cy="124" r="11" fill="#d94841"/><circle cx="413" cy="124" r="11" fill="#e4b341"/>
+  <path d="M302 263 q31 -24 62 0" fill="none" stroke="#2a2927" stroke-width="9"/>
+  <path d="M567 110 l168 -12 33 131 -180 15z" fill="#f5efe0" stroke="#2a2927" stroke-width="5"/>
+  <text x="594" y="152" font-family="Georgia, serif" font-size="38" fill="#2a2927">notes</text>
+  <path d="M594 176 q61 -15 120 0 M594 201 q44 -10 100 0" fill="none" stroke="#d94841" stroke-width="6" stroke-linecap="round"/>
+  <rect x="828" y="92" width="205" height="132" rx="11" fill="#2a2927" transform="rotate(4 930 158)"/>
+  <rect x="842" y="106" width="177" height="102" rx="6" fill="#dfe7d8"/>
+  <text x="870" y="151" font-family="monospace" font-size="23" fill="#2a2927">&gt;_ soul</text>
+  <text x="870" y="181" font-family="monospace" font-size="16" fill="#2a2927">remember()</text>
+  <path d="M1000 260 q40 -18 70 0" fill="none" stroke="#2a2927" stroke-width="9"/>
+  <rect x="1040" y="210" width="88" height="48" rx="12" fill="#d94841" stroke="#2a2927" stroke-width="5" transform="rotate(-12 1084 234)"/>
+  <text x="1052" y="239" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#fbf7ed">BUILD</text>
+</svg>

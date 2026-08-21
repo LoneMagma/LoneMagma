@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 370" role="img" aria-label="illustrated home workspace header">
+  <defs>
+    <filter id="paper" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 .05"/></feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1400" height="370" rx="30" fill="#efe7d5"/>
+  <rect width="1400" height="370" rx="30" filter="url(#paper)" opacity=".7"/>
+  <path d="M90 275 C210 225 285 270 390 240 S600 205 720 250 S980 295 1110 235 S1260 220 1320 250" fill="none" stroke="#c98c63" stroke-width="8" stroke-linecap="round" opacity=".65"/>
+  <path d="M100 78 q90 -42 165 0 q-8 62 -76 72 q-65 -12 -89 -72z" fill="#f5e9c8" stroke="#2a2927" stroke-width="5"/>
+  <path d="M127 69 q8 -35 18 -42 M170 69 q9 -32 22 -41 M220 71 q10 -26 23 -32" stroke="#d94841" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="135" cy="95" r="7" fill="#2a2927"/><circle cx="219" cy="95" r="7" fill="#2a2927"/>
+  <path d="M150 116 q30 18 59 0" fill="none" stroke="#2a2927" stroke-width="5" stroke-linecap="round"/>
+  <rect x="328" y="64" width="740" height="210" rx="22" fill="#fbf7ed" stroke="#2a2927" stroke-width="5" transform="rotate(-1 698 169)"/>
+  <path d="M372 112 C540 96 668 106 800 111 S965 119 1018 107" fill="none" stroke="#d94841" stroke-width="8" stroke-linecap="round"/>
+  <text x="373" y="170" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#2a2927">LONE</text>
+  <text x="377" y="218" font-family="Arial, sans-serif" font-size="27" fill="#2a2927">software · experiments · things worth tinkering with</text>
+  <path d="M1096 110 q72 -40 126 12 q18 31 -10 66 q-51 34 -99 6 q-31 -25 -17 -84z" fill="#5f8f70" stroke="#2a2927" stroke-width="5"/>
+  <circle cx="1148" cy="146" r="10" fill="#f8f0dc"/>
+  <circle cx="1193" cy="153" r="10" fill="#f8f0dc"/>
+  <path d="M1151 180 q25 22 50 -2" fill="none" stroke="#2a2927" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1133 106 q8 -34 28 -53 M1180 110 q11 -33 27 -47" stroke="#2f5fb3" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1125 294 q30 -27 65 0" fill="none" stroke="#2a2927" stroke-width="5"/>
+  <path d="M70 300 l28 -13 -6 21z M1232 292 l25 8 -16 15z" fill="#e4b341"/>
+</svg>

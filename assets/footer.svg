@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-label="small illustrated footer scene">
+  <rect width="1200" height="180" rx="20" fill="#e9dec8"/>
+  <path d="M50 140 q250 -15 470 0 t620 0" fill="none" stroke="#a77f5d" stroke-width="10" stroke-linecap="round" opacity=".6"/>
+  <rect x="100" y="67" width="142" height="60" rx="9" fill="#d94841" stroke="#2a2927" stroke-width="4"/>
+  <text x="125" y="104" font-family="Georgia, serif" font-size="22" fill="#fff8ea">PACIFY</text>
+  <rect x="810" y="62" width="96" height="63" rx="10" fill="#f7efdf" stroke="#2a2927" stroke-width="4"/>
+  <text x="833" y="101" font-family="monospace" font-size="19" fill="#2a2927">bye.</text>
+  <path d="M490 86 q70 -45 138 0 q34 31 -16 64 q-78 27 -123 -15 q-23 -24 1 -49z" fill="#5f8f70" stroke="#2a2927" stroke-width="5"/>
+  <circle cx="538" cy="102" r="7" fill="#fbf7ed"/><circle cx="582" cy="102" r="7" fill="#fbf7ed"/>
+  <path d="M538 119 q22 15 44 0" stroke="#2a2927" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M444 54 l22 16 -23 15 M685 54 l-22 16 23 15" stroke="#2f5fb3" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>

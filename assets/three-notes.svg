@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="three handwritten notes">
+  <rect width="1200" height="250" rx="20" fill="#eee3cf"/>
+  <g transform="rotate(-4 205 125)">
+    <rect x="70" y="60" width="290" height="135" rx="10" fill="#f6e8a8" stroke="#2a2927" stroke-width="4"/>
+    <text x="106" y="110" font-family="Georgia, serif" font-size="29" fill="#2a2927">protect attention</text>
+    <path d="M106 138 q103 -12 184 0" fill="none" stroke="#d94841" stroke-width="6"/>
+    <text x="106" y="169" font-family="Arial, sans-serif" font-size="16" fill="#4c4841">friction can be useful.</text>
+  </g>
+  <g transform="rotate(3 600 125)">
+    <rect x="455" y="52" width="300" height="145" rx="10" fill="#b9d9e2" stroke="#2a2927" stroke-width="4"/>
+    <text x="491" y="107" font-family="Georgia, serif" font-size="29" fill="#2a2927">make information</text>
+    <text x="491" y="140" font-family="Georgia, serif" font-size="29" fill="#2a2927">less noisy.</text>
+    <path d="M493 164 q87 9 190 -3" fill="none" stroke="#2f5fb3" stroke-width="6"/>
+  </g>
+  <g transform="rotate(-2 995 125)">
+    <rect x="842" y="61" width="280" height="136" rx="10" fill="#d9c4e8" stroke="#2a2927" stroke-width="4"/>
+    <text x="873" y="112" font-family="Georgia, serif" font-size="28" fill="#2a2927">make the computer</text>
+    <text x="873" y="146" font-family="Georgia, serif" font-size="28" fill="#2a2927">feel alive.</text>
+    <circle cx="1080" cy="172" r="12" fill="#5f8f70"/>
+  </g>
+</svg>

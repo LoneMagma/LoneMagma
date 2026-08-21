@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" role="img" aria-label="illustrated practice tools">
+  <rect width="1200" height="290" rx="20" fill="#eee3cc"/>
+  <rect x="80" y="62" width="250" height="165" rx="9" fill="#d94841" stroke="#2a2927" stroke-width="5" transform="rotate(-4 205 145)"/>
+  <rect x="108" y="85" width="193" height="109" fill="#fff6e3" stroke="#2a2927" stroke-width="4" transform="rotate(-4 205 145)"/>
+  <text x="137" y="124" font-family="Georgia, serif" font-size="26" fill="#2a2927">DRAW</text>
+  <path d="M136 149 q41 -27 84 0 t60 0" fill="none" stroke="#2f5fb3" stroke-width="5" stroke-linecap="round"/>
+  <rect x="432" y="69" width="245" height="150" rx="16" fill="#fbf7ed" stroke="#2a2927" stroke-width="5"/>
+  <circle cx="554" cy="142" r="52" fill="none" stroke="#2a2927" stroke-width="9"/>
+  <path d="M554 142 l28 -20" stroke="#2a2927" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="554" cy="142" r="6" fill="#d94841"/>
+  <rect x="777" y="72" width="323" height="144" rx="15" fill="#2a2927" transform="rotate(4 938 144)"/>
+  <rect x="795" y="88" width="284" height="111" rx="8" fill="#dfe7d8"/>
+  <text x="822" y="126" font-family="monospace" font-size="23" fill="#2a2927">q w e r t y</text>
+  <path d="M825 151 h205" stroke="#2a2927" stroke-width="6" stroke-linecap="round"/>
+  <text x="831" y="179" font-family="monospace" font-size="18" fill="#2a2927">keep going</text>
+</svg>

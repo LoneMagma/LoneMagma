@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" role="img" aria-label="portable development lab">
+  <rect width="1100" height="250" rx="20" fill="#eee3cf"/>
+  <rect x="108" y="62" width="340" height="137" rx="13" fill="#fbf7ed" stroke="#2a2927" stroke-width="5"/>
+  <path d="M148 95 q102 -16 201 0 M148 126 q83 -14 169 0 M148 157 q117 -11 217 0" fill="none" stroke="#2f5fb3" stroke-width="7" stroke-linecap="round"/>
+  <rect x="620" y="81" width="220" height="94" rx="18" fill="#5f8f70" stroke="#2a2927" stroke-width="5"/>
+  <rect x="655" y="98" width="137" height="28" rx="10" fill="#e7dfcf"/>
+  <circle cx="665" cy="112" r="6" fill="#d94841"/>
+  <path d="M712 150 q28 -24 56 0" fill="none" stroke="#fbf7ed" stroke-width="6" stroke-linecap="round"/>
+  <text x="874" y="123" font-family="Georgia, serif" font-size="32" fill="#2a2927">carry the lab.</text>
+  <path d="M872 147 q98 -12 154 0" fill="none" stroke="#d94841" stroke-width="6" stroke-linecap="round"/>
+</svg>
