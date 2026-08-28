@@ -8,13 +8,12 @@
 
 I make little pieces of software until they feel alive.
 
-They usually begin as something I want to use, understand, or stop being annoyed by. I build first, find the questions, and learn my way through whatever breaks.
+They usually begin as something I want to use and understand, or stop being annoyed at. I build first. ask the questions, and learn my way through when something breaks.
 
-Right now, [a 302-neuron worm is learning Snake](https://worm-learns-snake.lonemagma29.workers.dev/).
+Currently, [a 302-neuron worm is learning Snake](https://worm-learns-snake.lonemagma29.workers.dev/).
 
-[Pacify](https://pacify.site/) holds the rest of the workshop.
+[Pacify site](https://pacify.site/) holds the rest of my little workshop.
 
-That’s **Thinkiee**, my ThinkPad L490 and companion.  
-Most things here have passed through its keyboard at least once.
+That’s **Thinkiee**, my ThinkPad L490 and companion on the journey.  
 
 <br clear="right">
