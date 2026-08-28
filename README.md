@@ -14,6 +14,8 @@ Currently, [a 302-neuron worm is learning Snake](https://wormlearns.pacify.site)
 
 [Pacify site](https://pacify.site/) holds the rest of my little workshop.
 
+---
+
 That’s **Thinkiee** on the right. my ThinkPad L490 and companion on the journey.  
 
 <br clear="right">
