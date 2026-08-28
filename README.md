@@ -10,7 +10,7 @@ I make little pieces of software until they feel alive.
 
 They usually begin as something I want to use and understand, or stop being annoyed at. I build first. ask the questions, and learn my way through when something breaks.
 
-Currently, [a 302-neuron worm is learning Snake](https://wormlearns.pacify.site).
+Currently, [a worm with 302 neuron is learning Snake game](https://wormlearns.pacify.site).
 
 and, [Pacify site](https://pacify.site/) holds the rest of my little workshop.
 
