@@ -12,7 +12,7 @@ They usually begin as something I want to use and understand, or stop being anno
 
 Currently, [a 302-neuron worm is learning Snake](https://wormlearns.pacify.site).
 
-[Pacify site](https://pacify.site/) holds the rest of my little workshop.
+and, [Pacify site](https://pacify.site/) holds the rest of my little workshop.
 
 ---
 
