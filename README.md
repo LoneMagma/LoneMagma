@@ -6,16 +6,16 @@
   <img align="right" width="330" src="./assets/thinkiee.svg" alt="Thinkiee, my ThinkPad L490">
 </picture>
 
-I make little pieces of software until they feel alive.
+I make little pieces of software!
 
-They usually begin as something I want to use and understand, or stop being annoyed at. I build first. ask the questions, and learn my way through when something breaks.
+They usually begin as something I want to use and/or understand.
 
-Currently, [a worm with 302 neuron is learning Snake game](https://wormlearns.pacify.site).
+Currently, Building a browser native First Person Shooter: KRAGE. [Play](https://Krage.pacify.site).
 
-and, [Pacify site](https://pacify.site/) holds the rest of my little workshop.
+Everything under the [Pacify.site](https://pacify.site/) logo.
 
 ---
 
-That’s **Thinkiee** on the right. my ThinkPad L490 and companion on the journey.  
+That’s **Thinkiee** on the right. my ThinkPad and companion on the journey.  
 
 <br clear="right">
