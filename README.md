@@ -1,4 +1,4 @@
-# LoneMagma
+# Hey I'm Lone
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/thinkiee-dark.svg">
