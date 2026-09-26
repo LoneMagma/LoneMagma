@@ -8,9 +8,9 @@
 
 I make little pieces of software!
 
-They usually begin as something I want to use and/or understand.
+They usually are something which I wanna use OR learn.
 
-Currently, Building a browser native First Person Shooter: KRAGE. [PLAY NOW](https://Krage.pacify.site)
+Currently Building a Browser Native FPS Game: KRAGE. [PLAY](https://Krage.pacify.site),
 
 Everything is under the [Pacify.site](https://pacify.site/) logo- My Tech Venture & Portfolio.
 
